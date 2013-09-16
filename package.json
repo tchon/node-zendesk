@@ -1,6 +1,6 @@
 {
   "name": "node-zendesk",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "zendesk API client wrapper",
   "keywords": [
     "zendesk",
@@ -26,7 +26,6 @@
     "querystring": "0.2.x",
     "async": "0.2.x",
     "flatten": "0.0.x",
-    "mime-magic": "latest",
     "nconf": "0.6.x"
   }
 }
